@@ -76,6 +76,8 @@ group :development, :test do
   gem 'pry-rails'
   gem 'hirb'
   gem 'hirb-unicode'
+  gem 'pry-remote'
+  gem 'pry-nav'
 end
 
 group :test do
